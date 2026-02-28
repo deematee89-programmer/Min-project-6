@@ -1,6 +1,20 @@
-In this exercise, I loaded the dataset and first performed univariate analysis
-checking the data with head() and describe(), and visualizing distributions with histograms.
-Then I did correlation analysis using a heatmap to see relationships between numerical variables.
-Finally, I ran bivariate analysis with a scatter plot of age versus income. From the analysis,
-I observed that income and spending are positively related, older customers tend to have higher income,
-and segment C has the highest income and spending.
+EDA Analysis Pipeline
+================================================================================
+This project implements a structured exploratory data analysis process to
+understand the dataset and identify key patterns and relationships.
+
+Steps Performed:
+1. Loaded the dataset and inspected its structure
+2. Performed univariate analysis using head(), describe(), and histograms
+3. Computed correlation matrix for numerical features
+4. Visualized correlations using a heatmap
+5. Conducted bivariate analysis using a scatter plot (age vs income)
+--------------------------------------------------------------------------------
+Insights:
+1. Income and spending show a positive relationship
+2. Older customers tend to have higher income levels
+3. Segment C has the highest income and spending values
+--------------------------------------------------------------------------------
+The End!! — with love,
+Programmer Deema <3
+================================================================================
